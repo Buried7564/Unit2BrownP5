@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1714550014690762945}
   - component: {fileID: 8768115938864643337}
   - component: {fileID: 6917640036883402399}
-  - component: {fileID: 3333403546668262686}
+  - component: {fileID: 6296471010056218746}
   m_Layer: 0
   m_Name: Food_Bone_01
   m_TagString: Untagged
@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 40
---- !u!114 &3333403546668262686
+--- !u!114 &6296471010056218746
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
